@@ -3,6 +3,6 @@
   "localName": "Deutsch",
   "code": "de",
   "messages": {
-   
+    "personalInfo.title": "Persönliche Informationen"
   }
 }
