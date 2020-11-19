@@ -3,6 +3,23 @@
   "localName": "English",
   "code": "en",
   "messages": {
-    "personalInfo.title": "Personal Information"
+    "general.notSet": "Not set",
+    "personalInfo.title": "Personal Information",
+
+    "personalInfo.profile.title": "Profile",
+    "personalInfo.profile.description": "General account information, like name, birthday or gender.",
+    "personalInfo.profile.name.title": "Name",
+    "personalInfo.profile.username.title": "Username",
+    "personalInfo.profile.birthday.title": "Birthday",
+    "personalInfo.profile.gender.title": "Gender",
+    "personalInfo.profile.password.title": "Password",
+
+    "personalInfo.customization.title": "Customization",
+    "personalInfo.customization.description": "Customize your account with language or theme.",
+    "personalInfo.customization.language.title": "Language",
+    "personalInfo.customization.theme.title": "Theme",
+
+    "personalInfo.contactDetails.title": "Customization",
+    "personalInfo.contactDetails.emails.title": "E-mails"
   }
 }
