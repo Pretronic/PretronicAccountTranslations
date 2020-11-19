@@ -3,6 +3,66 @@
   "localName": "Deutsch",
   "code": "de",
   "messages": {
-    "personalInfo.title": "Persönliche Informationen"
+    "general.notSet": "Nicht gesetzt",
+    "personalInfo.title": "Persönliche Informationen",
+
+    "personalInfo.profile.title": "Profil",
+    "personalInfo.profile.description": "Generelle Account informationen, wie Name, Geburtstag oder Geschlecht.",
+    "personalInfo.profile.name.title": "Name",
+    "personalInfo.profile.username.title": "Username",
+    "personalInfo.profile.birthday.title": "Geburtstag",
+    "personalInfo.profile.gender.title": "Geschlecht",
+    "personalInfo.profile.password.title": "Passwort",
+
+    "personalInfo.customization.title": "Anpassung",
+    "personalInfo.customization.description": "Passe deinen Account mit der Änderung von Sprache und Theme.",
+    "personalInfo.customization.language.title": "Language",
+    "personalInfo.customization.theme.title": "Theme",
+
+    "personalInfo.contactDetails.title": "Kontaktinformationen",
+    "personalInfo.contactDetails.emails.title": "E-mails",
+
+    "personalInfo.profile.change.buttons.close": "Schließen",
+    "personalInfo.profile.change.buttons.save": "Speichern",
+
+    "personalInfo.profile.changeEmail.title": "Emails",
+    "personalInfo.profile.changeEmail.primaryEmail": "Primäre Email",
+    "personalInfo.profile.changeEmail.resend": "Erneut senden",
+    "personalInfo.profile.changeEmail.verified": "Verifiziert",
+    "personalInfo.profile.changeEmail.error.newEmail": "- Ungültige E-Mail Adresse",
+    "personalInfo.profile.changeEmail.error.alreadyInUse": "Email wird bereits genutzt",
+
+    "personalInfo.profile.changeLanguage.title": "Sprache ändern",
+    "personalInfo.profile.changeLanguage.label": "Sprache",
+    "personalInfo.profile.changeLanguage.error.required": "- Dieses Feld wird benötigt",
+
+    "personalInfo.profile.changeTheme.title": "Theme ändern",
+    "personalInfo.profile.changeTheme.label": "Theme",
+    "personalInfo.profile.changeTheme.error.required": "- Dieses Feld wird benötigt",
+
+    "personalInfo.profile.changeBirthday.title": "Geburtstag ändern",
+    "personalInfo.profile.changeBirthday.label": "Geburtstag",
+    "personalInfo.profile.changeBirthday.error.required": "- Dieses Feld wird benötigt",
+    "personalInfo.profile.changeBirthday.error.atLeast14YearsOld": "- Du musst mindestens 14 Jahre alt sein",
+
+    "personalInfo.profile.changeGender.title": "Geschlecht ändern",
+    "personalInfo.profile.changeGender.label": "Geschlecht",
+    "personalInfo.profile.changeGender.error.required": "- Dieses Feld wird benötigt",
+
+    "personalInfo.profile.changeName.title": "Namen ändern",
+    "personalInfo.profile.changeName.firstName.label": "Vorname",
+    "personalInfo.profile.changeName.lastName.label": "Nachname",
+    "personalInfo.profile.changeName.error.firstName": "- Vorname muss mindestens vier Zeichen lang sein",
+    "personalInfo.profile.changeName.error.lastName": "- Nachname muss mindestens vier Zeichen lang sein",
+
+    "personalInfo.profile.changePassword.title": "Passwort ändern",
+    "personalInfo.profile.changePassword.currentPassword.label": "Aktuelles Passwort",
+    "personalInfo.profile.changePassword.newPassword.label": "Neues Passwort",
+    "personalInfo.profile.changePassword.error.oldPasswordNotMatch": "- Akutelles Passwort ist falsch",
+    "personalInfo.profile.changePassword.error.passwordLengthNotValid": "- Passwort muss mindestens sechs Zeichen lang sein",
+
+    "personalInfo.profile.changeUsername.title": "Username ändern",
+    "personalInfo.profile.changeUsername.label": "Username",
+    "personalInfo.profile.changeUsername.error.usernameAtLeast4Characters": "- Username muss mindestens vier Zeichen lang sein"
   }
 }

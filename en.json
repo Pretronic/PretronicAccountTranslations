@@ -19,7 +19,7 @@
     "personalInfo.customization.language.title": "Language",
     "personalInfo.customization.theme.title": "Theme",
 
-    "personalInfo.contactDetails.title": "Customization",
+    "personalInfo.contactDetails.title": "Contact details",
     "personalInfo.contactDetails.emails.title": "E-mails",
 
     "personalInfo.profile.change.buttons.close": "Close",
@@ -63,6 +63,6 @@
 
     "personalInfo.profile.changeUsername.title": "Change Username",
     "personalInfo.profile.changeUsername.label": "Username",
-    "personalInfo.profile.changeUsername.error.usernameAtLeast4Characters": "- Name must be at least 4 characters long"
+    "personalInfo.profile.changeUsername.error.usernameAtLeast4Characters": "- Username must be at least 4 characters long"
   }
 }
