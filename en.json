@@ -20,6 +20,49 @@
     "personalInfo.customization.theme.title": "Theme",
 
     "personalInfo.contactDetails.title": "Customization",
-    "personalInfo.contactDetails.emails.title": "E-mails"
+    "personalInfo.contactDetails.emails.title": "E-mails",
+
+    "personalInfo.profile.change.buttons.close": "Close",
+    "personalInfo.profile.change.buttons.save": "Save",
+
+    "personalInfo.profile.changeEmail.title": "Emails",
+    "personalInfo.profile.changeEmail.primaryEmail": "PrimaryEmail",
+    "personalInfo.profile.changeEmail.resend": "Resend",
+    "personalInfo.profile.changeEmail.verified": "Verified",
+    "personalInfo.profile.changeEmail.error.newEmail": "- Invalid E-Mail address",
+    "personalInfo.profile.changeEmail.error.alreadyInUse": "Email already in use",
+
+    "personalInfo.profile.changeLanguage.title": "Change Language",
+    "personalInfo.profile.changeLanguage.label": "Language",
+    "personalInfo.profile.changeLanguage.error.required": "- This field is required",
+
+    "personalInfo.profile.changeTheme.title": "Change Theme",
+    "personalInfo.profile.changeTheme.label": "Theme",
+    "personalInfo.profile.changeTheme.error.required": "- This field is required",
+
+    "personalInfo.profile.changeBirthday.title": "Change Birthday",
+    "personalInfo.profile.changeBirthday.label": "Birthday",
+    "personalInfo.profile.changeBirthday.error.required": "- This field is required",
+    "personalInfo.profile.changeBirthday.error.atLeast14YearsOld": "- You have to be 14 years old",
+
+    "personalInfo.profile.changeGender.title": "Change Gender",
+    "personalInfo.profile.changeGender.label": "Gender",
+    "personalInfo.profile.changeGender.error.required": "- This field is required",
+
+    "personalInfo.profile.changeName.title": "Change Name",
+    "personalInfo.profile.changeName.firstName.label": "First name",
+    "personalInfo.profile.changeName.lastName.label": "Last name",
+    "personalInfo.profile.changeName.error.firstName": "- First name must be at least 4 characters long",
+    "personalInfo.profile.changeName.error.lastName": "- Last name must be at least 4 characters long",
+
+    "personalInfo.profile.changePassword.title": "Change Password",
+    "personalInfo.profile.changePassword.currentPassword.label": "Current Password",
+    "personalInfo.profile.changePassword.newPassword.label": "New Password",
+    "personalInfo.profile.changePassword.error.oldPasswordNotMatch": "- Current password is incorrect",
+    "personalInfo.profile.changePassword.error.passwordLengthNotValid": "- Password must be at least 6 characters long",
+
+    "personalInfo.profile.changeUsername.title": "Change Username",
+    "personalInfo.profile.changeUsername.label": "Username",
+    "personalInfo.profile.changeUsername.error.usernameAtLeast4Characters": "- Name must be at least 4 characters long"
   }
 }
