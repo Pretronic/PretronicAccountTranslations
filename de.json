@@ -5,6 +5,10 @@
   "messages": {
     "general.notSet": "Nicht gesetzt",
     "personalInfo.title": "Persönliche Informationen",
+    
+    "navigation.overview": "Übersicht",
+    "navigation.settings": "Persönliche Daten",
+    "navigation.accounts": "Verbundene Accounts",
 
     "personalInfo.profile.title": "Profil",
     "personalInfo.profile.description": "Generelle Account informationen, wie Name, Geburtstag oder Geschlecht.",
@@ -15,7 +19,7 @@
     "personalInfo.profile.password.title": "Passwort",
 
     "personalInfo.customization.title": "Anpassung",
-    "personalInfo.customization.description": "Passe deinen Account mit der Änderung von Sprache und Theme.",
+    "personalInfo.customization.description": "Passe deinen Account mit der Änderung von Sprache und Theme individuell an.",
     "personalInfo.customization.language.title": "Sprache",
     "personalInfo.customization.theme.title": "Theme",
 
