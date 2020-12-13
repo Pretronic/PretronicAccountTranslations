@@ -5,6 +5,10 @@
   "messages": {
     "general.notSet": "Not set",
     "personalInfo.title": "Personal Information",
+    
+    "navigation.overview": "Overview",
+    "navigation.settings": "Personal Info",
+    "navigation.accounts": "Connected Accounts",
 
     "personalInfo.profile.title": "Profile",
     "personalInfo.profile.description": "General account information, like name, birthday or gender.",
